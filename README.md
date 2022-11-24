@@ -1,7 +1,8 @@
-All credits go to https://github.com/Mitchell-Levesque/lol-leveling-bot.
+All credits go to https://github.com/Krach64/lol-bot-leveling-free.
 
 # My work
-I have just corrected issues and improve the behaviour of ashe in game
+Made a better client stuck detection and updated some pictures. Working on patch 12.22.
+Still need to improve the bot to skip eternals, the bot currently stucks on post-game lobby until the bot detects the client is stuck and restarts it.
 
 
 # Starting the bot
